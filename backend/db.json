@@ -1,0 +1,19 @@
+{
+    "books": 
+    [
+        {
+            "id": 1,
+            "title": "Alice's Adventures in Wonderland",
+            "price": 145.00,
+            "ISBN": 9780147515872,
+            "category": "adventure"
+        },
+        {
+            "id": 2,
+            "title": "The young Prince",
+            "price": 100.00,
+            "ISBN": 9560147515875,
+            "category": "adventure"
+        }
+    ]
+}

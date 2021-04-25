@@ -1,0 +1,15 @@
+npm init -y
+
+npm i json-sever
+
+npm install -g json-server
+
+npm i -g @angular/cli
+
+set-executionpolicy unrestricted
+
+ng new frontend --minimal
+
+ng add @angular/material
+
+ng generate component components/template/header
