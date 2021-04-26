@@ -13,3 +13,7 @@ ng new frontend --minimal
 ng add @angular/material
 
 ng generate component components/template/header
+
+ng generate component components/template/footer
+
+ng generate component components/template/nav
