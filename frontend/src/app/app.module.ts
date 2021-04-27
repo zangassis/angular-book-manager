@@ -17,7 +17,9 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent
+    HeaderComponent,
+    FooterComponent,
+    NavComponent
   ],
   imports: [
     BrowserModule,
